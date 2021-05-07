@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RyanYmeri
-- 👀 I’m interested in IOTs, maps, automated vehicles, all things tech. Just diving in an plucking things apart to learn how they work!
-- 🌱 I’m currently learning Kubernetes scaling and linux development
-- 💞️ I’m looking to collaborate on with anything. Always willing to lend a hand!
+- 👀 I’m interested in IOTs, map developement, automated vehicles, just all things tech. Diving in to pluck things apart and see how they work!
+- 🌱 I’m currently learning application scaling and development on linux
+- 💞️ I’m looking to collaborate on anything. Always willing to lend a hand!
 - 📫 How to reach me ryan@ymeri.com
 
 <!---
