@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyanYmeri
-- 👀 I’m interested in IOTs, map developement, automated vehicles, crypto development, just all things tech. Diving in to pluck things apart and see how they work!
+- 👀 I’m interested in IOTs, map developement, automated vehicles, just all things tech. Diving in to pluck things apart and see how they work!
 - 🌱 I’m currently learning application scaling and development on linux
 - 💞️ I’m looking to collaborate on anything. Always willing to lend a hand!
 - 📫 How to reach me ryan@ymeri.com
